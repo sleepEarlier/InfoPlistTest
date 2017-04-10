@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.20.136.40/tools/data/hallIos/20170329134921_272_321944/packTools_Release_InHouse.ipa</string>
+					<string>https://raw.githubusercontent.com/sleepEarlier/InfoPlistTest/master/resign.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://172.20.136.40/tools/data/hallIos/20170329134921_272_321944/120.png</string>
+					<string>https://raw.githubusercontent.com/sleepEarlier/InfoPlistTest/master/AppIcon60x60%403x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://172.20.136.40/tools/data/hallIos/20170329134921_272_321944/60.png</string>
+					<string>https://raw.githubusercontent.com/sleepEarlier/InfoPlistTest/master/AppIcon60x60%402x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
