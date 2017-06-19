@@ -1,4 +1,4 @@
 {
-"com.macao.newslot":1000,
+"com.macao.newslot":100,
 "com.macao.rsp":1001
 }
