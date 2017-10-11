@@ -5,3 +5,6 @@ A simple practice of reverse engineering with Wechat App.
 2. prevent revoked message
 
 #### Install:
+ ![QRCode](https://github.com/sleepEarlier/InfoPlistTest/blob/master/1507705727.png)
+
+Scan this QRCode via camera, iOS 11 required.
