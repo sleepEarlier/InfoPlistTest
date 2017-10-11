@@ -1,4 +1,7 @@
-{
-"com.macao.newslot":1001,
-"com.macao.rsp":1001
-}
+A simple practice of reverse engineering with Wechat App.
+
+#### Feature:
+1. Modify walked steps
+2. prevent revoked message
+
+#### Install:
