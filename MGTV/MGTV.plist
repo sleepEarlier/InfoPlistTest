@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://7xl96s.com1.z0.glb.clouddn.com/MGTV5.5.4.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/sleepEarlier/InfoPlistTest/master/MGTV/AppIcon60x60%403x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/sleepEarlier/InfoPlistTest/master/MGTV/AppIcon40x40%402x.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.mg.patch</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>芒果台</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
